@@ -1,3 +1,7 @@
+/// Google Apps Script
+
+
+
 const BASE_URL = 'http://94.103.91.4:5000';
 const REGISTRATION_URL = `${BASE_URL}/auth/registration`;
 const LOGIN_URL = `${BASE_URL}/auth/login`;
